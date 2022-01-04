@@ -1,4 +1,4 @@
-# Jemseits der Stille file descriptions
+# *Jenseits der Stille* File Descriptions
 
 |File|Contents|
 |----|--------|
