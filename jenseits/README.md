@@ -1,3 +1,5 @@
+Subtitles are from the free, mpublicly-available website [opensubtitles.org](https://www.opensubtitles.org/en/search/subs), which has subtitles&mdash;in the form of .SRT files&mdash;for tons of movies in multiple languages.
+
 |File|Contents|
 |----|--------|
 |bilingual-jensiets-der-still.html|German and Corresponding English subtitles as one long webpage|
