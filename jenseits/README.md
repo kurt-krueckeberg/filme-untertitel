@@ -1,4 +1,4 @@
-|File|Contenst|
+|File|Contents|
 |----|--------|
 |bilingual-jensiets-der-still.html|German and Corresponding English subtitles as one long webpage|
 |german-jenseits.txt|German-only subtitles subtitles in a text file| 
