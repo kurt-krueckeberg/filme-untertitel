@@ -1,5 +1,5 @@
-The subtitles used to create the **.txt** and **.html** listed in the table below were downloaded from the free, publicly-available website [opensubtitles.org](https://www.opensubtitles.org/en/search/subs), which has subtitles&mdash;in the form of
-.SRT files&mdash;for tons of movies in multiple languages. The .SRT files were converted into text-only files, the **.txt** files below; these in turn where used to create the **.html** pages.
+The subtitles used to create the **.txt** and **.html** listed in the table below were downloaded from the free, publicly-available website [opensubtitles.org](https://www.opensubtitles.org/en/search/subs), which has [SRT](https://en.wikipedia.org/wiki/SRT) subtitle files
+for tons of movies in multiple languages. The .SRT files were converted into text-only files, the **.txt** files below; these in turn where used to create the **.html** pages.
 
 |File|Contents|
 |----|--------|
