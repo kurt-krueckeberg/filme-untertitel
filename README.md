@@ -2,7 +2,7 @@
 
 ## Directions
 
-To download the files in this repository, click the green **Code**.
+To download the files in this repository, click the green **Code** button.
 
 ## Description
 
