@@ -1,4 +1,5 @@
-Subtitles are from the free, mpublicly-available website [opensubtitles.org](https://www.opensubtitles.org/en/search/subs), which has subtitles&mdash;in the form of .SRT files&mdash;for tons of movies in multiple languages.
+The subtitles (used to generate the .html files listed below) were downloaed from the free, publicly-available website [opensubtitles.org](https://www.opensubtitles.org/en/search/subs). It has subtitles&mdash;in the form of
+.SRT files&mdash;for tons of movies in multiple languages.
 
 |File|Contents|
 |----|--------|
