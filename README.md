@@ -2,7 +2,7 @@
 
 ## Directions
 
-You can download the files in this repository as a zip file by clicking on the green **Code** button.
+You can download the files in this repository as a **zip** file by clicking on the green **Code** button.
 
 ## Description
 
