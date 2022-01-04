@@ -31,3 +31,12 @@ for tons of movies in multiple languages. The .SRT files were converted into tex
 |english-jenseits-der-stille.html|English-only subtitles in one long webpage|
 |german-jenseits.html|German-only subtitles in one long webpage||
 |jenseits.txt|File to be processed by code that produces webpages|
+
+
+# [Die Welle[(./welle)
+
+|File|Contents|
+|----|--------|
+|bilingual-die-welle.html|German and English subtitles die by side as a single, long webpage|
+|die-welle.txt|German subtitles as text file | |
+|the-wave.txt|English subtitles as text file |
