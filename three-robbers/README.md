@@ -1,4 +1,4 @@
-# *Die drei Räuber* File Descriptions
+# *Die drei Räuber* 
 
 |File|Contents|
 |----|--------|
