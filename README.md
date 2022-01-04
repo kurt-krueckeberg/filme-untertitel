@@ -33,6 +33,15 @@ for tons of movies in multiple languages. The .SRT files were converted into tex
 |jenseits.txt|File to be processed by code that produces webpages|
 
 
+# [Das Wunder von Bern](./wunder)
+
+|File|Contents|
+|----|--------|
+|bilingual-untertitel.html|German and English subtitles webpage|
+|english-untertitel.html|English subtitles webpage|
+|german-untertitel.html|German subtitles webpage|
+|wunder.txt|Input file for webpage creation|
+
 ## [Die Welle](./welle)
 
 |File|Contents|
