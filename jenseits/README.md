@@ -1,5 +1,5 @@
 The subtitles were downloaed from the free, publicly-available website [opensubtitles.org](https://www.opensubtitles.org/en/search/subs), which has subtitles&mdash;in the form of
-.SRT files&mdash;for tons of movies in multiple languages. The .SRT files were altered into files with text only, the **.txt** files below, which in turn where used to create the
+.SRT files&mdash;for tons of movies in multiple languages. The .SRT files were convert into text-only files, the **.txt** files below, and these in turn where used to create the
 **.html** pages.
 
 |File|Contents|
