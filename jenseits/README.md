@@ -1,5 +1,5 @@
-|File|German and Corresponding English Subtitles as One Long Webpage|
-|----|--------------------------------------------------------------|
+|File|Contenst|
+|----|--------|
 |bilingual-jensiets-der-still.html|German and Corresponding English subtitles as one long webpage|
 |german-jenseits.txt|German-only subtitles subtitles in a text file| 
 |english-jenseits.txt|English-only subtitles in a text file|
