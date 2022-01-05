@@ -15,6 +15,9 @@ void main(string[] args)
 {
 
    try {
+      short x;
+      writeln("s.size ", x.sizeof);
+      return;
 
       auto ifile = File("./die-welle.txt", "r");
 
