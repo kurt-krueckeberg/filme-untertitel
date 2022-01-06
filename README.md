@@ -6,9 +6,9 @@ To download this repository as a **zip** file, click the green **Code** button a
 
 ## Description
 
-The subtitles used to create the **.txt** and **.html** listed in the tables below are from the free website [opensubtitles.org](https://www.opensubtitles.org/en/search/subs), which has [.srt](https://en.wikipedia.org/wiki/SRT)
-subtitle files for many films in multiple languages. The **.srt** files were stripped of time-sequence indicators and converted to text files (with the extension **.txt**), then, in turn used as input 
-to create the **.html** pages.
+The subtitles files used to create the **.txt** and **.html** files (listed in the tables below) were downloaded from the free website [opensubtitles.org](https://www.opensubtitles.org/en/search/subs), which has [.srt](https://en.wikipedia.org/wiki/SRT)
+subtitle files for many films in multiple languages. The **.srt** files (which are not included in this repository) were stripped of the .SRT time-sequence indicators (and other crap) and converted to text-only files (with the extension **.txt**).
+The **.txt** files in turn were used as input (to some simple software I wrote)  to create the **.html** pages.
 
 ## [Die drei Räuber](./three-robbers)
 
