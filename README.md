@@ -10,10 +10,11 @@ The subtitles files used to create the **.txt** and **.html** files (listed in t
 subtitle files for many films in multiple languages. The **.srt** files (which are not included in this repository) were stripped of the .SRT time-sequence indicators (and other crap) and converted to text-only files (with the extension **.txt**).
 The **.txt** files in turn were used as input (to some simple software I wrote)  to create the **.html** pages.
 
-### Pandoc HOWTO
+## To Create .html
 
 ```bash
-$ pandoc -s name_of_subtitle_file.md -c style.css --template template.html -o name_of_file.html
+$ create-html.php german-subtitles.txt english-subtitles.txt output-file.html
+```
 
 ## [Die drei Räuber](./three-robbers)
 
