@@ -10,32 +10,8 @@ $header = <<<TWOCOLSHEADER
 <html>
 <head>
 	<meta http-equiv="content-type" content="text/html; charset=utf-8"/>
+        <link rel="stylesheet" href="film.css">
 	<title></title>
-<style>
-#container {
-   display: grid; 
-   grid-template-columns: 40% 40%; 
-   padding-left: 2em;
-}
-
-p { 
-  padding-top: 3px;
-  padding-bottom: 3px;
-  padding-right: 6px;
-  margin: 0px;
-}
-
-p.new-speaker {
-  font-weight: 600;
-}
-
-body {
-  font-family: 'Lato Medium', Arial, sans-serif;
-  margin-left: 3em;
-  background-color: #171421;
-  color: #D0CFCC;
-}
-</style>
 </head>
 <body>
 <div id="container">
