@@ -2,9 +2,17 @@ body {
   margin-left: 3em;
   font-family: 'Lato Medium', Arial, sans-serif;
 
-  color: #D0CFCC;               /*  <-- text color        */ 
-  background-color: #171421;    /*  <-- background color  */
+  color: #D0CFCC;              
+  background-color: #171421;  
 
+  /* Alernate colors: 
+  color: black;        
+  background-color: white;   
+
+
+  color: #FFFFFF;   
+  background-color: #002451; 
+  */
 }
 
 #container {
