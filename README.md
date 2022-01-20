@@ -20,7 +20,7 @@ It will output the file dual-language file output-file.html.
 
 ### general-style.css
 
-**general-style.css** the stylesheet for bilingual html.
+**general-style.css** the stylesheet for bilingual html files found in each subfolder.
 
 ## [Die drei Räuber](./three-robbers)
 
