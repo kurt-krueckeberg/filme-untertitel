@@ -16,9 +16,9 @@ The **.txt** files in turn were used as input (to some simple software I wrote) 
 $ create-html.php german-subtitles.txt english-subtitles.txt output-file.html
 ```
 
-### general-styple.css
+### general-style.css
 
-**general-styple.css** the stylesheet for bilingual html.
+**general-style.css** the stylesheet for bilingual html.
 
 ## [Die drei Räuber](./three-robbers)
 

@@ -42,10 +42,15 @@ FOOTER;
        return $ret;
    }
 
+if ($argc != 2) {
+	echo "Enter name of German .txt subcaption file followed English translation .txt file.\n";
+	return;
+}
+
   try {
      
-     $defile = new File("die-welle.txt", "r");
-     $enfile = new File("the-wave.txt", "r");
+     $defile = new File($argv[1], "r");
+     $enfile = new File($argv[2], "r");
 
      $defile->setFlags(\SplFileObject::READ_AHEAD | \SplFileObject::SKIP_EMPTY | \SplFileObject::DROP_NEW_LINE);
      $enfile->setFlags(\SplFileObject::READ_AHEAD | \SplFileObject::SKIP_EMPTY | \SplFileObject::DROP_NEW_LINE);
