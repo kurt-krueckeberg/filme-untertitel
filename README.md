@@ -13,8 +13,10 @@ The **.txt** files in turn were used as input (to some simple software I wrote) 
 ## To Create .html
 
 ```bash
-$ create-html.php german-subtitles.txt english-subtitles.txt output-file.html
+$ create-html.php german-subtitles.txt english-subtitles.txt 
 ```
+
+It will output the file dual-language file output-file.html.
 
 ### general-style.css
 
