@@ -42,7 +42,7 @@ FOOTER;
        return $ret;
    }
 
-if ($argc != 2) {
+if ($argc != 3) {
 	echo "Enter name of German .txt subcaption file followed English translation .txt file.\n";
 	return;
 }
