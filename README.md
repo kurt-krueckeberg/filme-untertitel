@@ -16,7 +16,13 @@ The **.txt** files in turn were used as input (to some simple software I wrote) 
 $ create-html.php german-subtitles.txt english-subtitles.txt 
 ```
 
-It will output the file dual-language file output-file.html.
+OR 
+
+```d
+$ ./u.d german-subtitles.txt english-subtitles.txt 
+```
+
+It will output the file output.html.
 
 ### general-style.css
 

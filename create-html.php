@@ -14,7 +14,7 @@ $header = <<<TWOCOLSHEADER
 	<title></title>
 </head>
 <body>
-<div id="container">
+<div id="container">\n
 TWOCOLSHEADER;
 
 $footer = <<<FOOTER
@@ -37,7 +37,7 @@ FOOTER;
 
          $par = '<p>';
        
-       $ret = "{$par}$detext</p>{$par}$entext</p>";
+       $ret = "{$par}$detext</p>\n{$par}$entext</p>";
 
        return $ret;
    }
