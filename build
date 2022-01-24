@@ -1,4 +1,4 @@
-:q#!/usr/bin/env rdmd
+#!/usr/bin/env rdmd
 import std.exception;
 import std.stdio;
 import std.string;
@@ -31,13 +31,20 @@ string footer = q"EOS
 </html>
 EOS";
 
+    if (args.length < 4) {
+
+        writeln("Enter German subtitle file name, followed by English subtitle file name, followed by name of output file.");
+        return;
+    }
+
+
    try {
 
-      auto ofile = File("output.html", "w");
+      auto ofile = File(args[3], "w");
       ofile.write(header);
 
-      auto dfile = File("./die-welle.txt", "r");
-      auto efile = File("./the-wave.txt", "r");
+      auto dfile = File(args[1], "r");
+      auto efile = File(args[2], "r");
 
       char[] ebuf; 
 

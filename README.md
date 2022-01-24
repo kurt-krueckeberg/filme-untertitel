@@ -19,7 +19,7 @@ $ create-html.php german-subtitles.txt english-subtitles.txt
 OR 
 
 ```d
-$ ./u.d german-subtitles.txt english-subtitles.txt 
+$ ./build german-subtitles.txt english-subtitles.txt bilingual.html
 ```
 
 Both will output the file output.html.
