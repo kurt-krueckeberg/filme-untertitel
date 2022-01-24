@@ -1,1 +1,0 @@
-The u.d code works just like the create.html code, except the input files are hard-coded.

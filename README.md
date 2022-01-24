@@ -22,7 +22,9 @@ OR
 $ ./u.d german-subtitles.txt english-subtitles.txt 
 ```
 
-It will output the file output.html.
+Both will output the file output.html.
+
+**Note:** The u.d code works just like the create.html code, except the input files are hard-coded.
 
 ### general-style.css
 

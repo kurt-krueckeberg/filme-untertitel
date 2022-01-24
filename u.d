@@ -1,4 +1,4 @@
-#!/usr/bin/env rdmd
+:q#!/usr/bin/env rdmd
 import std.exception;
 import std.stdio;
 import std.string;
