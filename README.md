@@ -12,17 +12,9 @@ The **.txt** files in turn were used as input (to some simple software I wrote) 
 
 ## To Create .html
 
-```bash
-$ create-html.php german-subtitles.txt english-subtitles.txt 
-```
-
-OR 
-
 ```d
 $ ./build german-subtitles.txt english-subtitles.txt bilingual.html
 ```
-
-Both will output the file output.html.
 
 **Note:** The u.d code works just like the create.html code, except the input files are hard-coded.
 
