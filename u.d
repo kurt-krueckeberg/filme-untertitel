@@ -45,12 +45,25 @@ EOS";
 
 	  efile.readln(ebuf); 
 
+	  string par;
+	  int line_start = 0;
+
 	  // '-' imples a new speaker.
-          auto par = (line[0] == '-') ?  "<p class='new-speaker'>" : "<p>"; 
+          if (line[0] == '-') {
+
+	        par =  "<p class='new-speaker'>" ;
+		line_start = 2;
+
+	  } else {
+
+		par = "<p>"; 
+	  }
+
+          //auto par = (line[0] == '-') ?  "<p class='new-speaker'>" : "<p>"; 
 
           // Slice off the newline from ebuf
   
-          ofile.writeln(par, line, "</p>\n", par, ebuf[0 .. ebuf.length - 1], "</p>");
+          ofile.writeln(par, line[line_start .. $], "</p>\n", par, ebuf[line_start .. ebuf.length - 1], "</p>");
       }
 
       ofile.write(footer);
