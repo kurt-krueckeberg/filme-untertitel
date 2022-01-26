@@ -16,11 +16,9 @@ The **.txt** files in turn were used as input (to some simple software I wrote) 
 $ ./build german-subtitles.txt english-subtitles.txt bilingual.html
 ```
 
-**Note:** The u.d code works just like the create.html code, except the input files are hard-coded.
+### stylesheets
 
-### general-style.css
-
-**general-style.css** the stylesheet for bilingual html files found in each subfolder.
+**screen.css** and **print.css** .
 
 ## [Die drei Räuber](./three-robbers)
 
