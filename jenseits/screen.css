@@ -28,8 +28,8 @@ body {
   padding-top: 3px;
   padding-bottom: 3px;
   padding-right: 6px;
-  line-height: 1.25em; /* <--- Spacing between line within paragraph */ 
-  margin: 2px 0;      /* <--- Spacing between paragraphs. It is equivalent to the statements
+  line-height: 1.4em; /* <--- Spacing between line within paragraph */ 
+  margin: 4px 0;      /* <--- Spacing between paragraphs. It is equivalent to the statements
                  
   below: 
 
