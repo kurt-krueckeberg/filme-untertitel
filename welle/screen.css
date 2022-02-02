@@ -1,5 +1,5 @@
 body {
-/*  margin-left: 3em;*/
+  margin-left: 3em;
 
   color: #FFFFFF;  
   background-color: #002451;
@@ -25,9 +25,7 @@ body {
 
    display: grid; 
    grid-template-columns: 40% 40%; 
-   margin: auto;
-   width 60%;
-/*   padding-left: 2em; */
+   padding-left: 2em; 
 }
 
 #container p { /* paragraph style--font, text color, background color, spacig with paragraphs and between paragraphs */
