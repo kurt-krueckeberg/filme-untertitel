@@ -2,9 +2,6 @@
 import std.exception;
 import std.stdio;
 import std.string;
-import std.uni;
-import std.regex;
-import std.regex;
 import std.range;
 
 /*
@@ -38,7 +35,6 @@ EOS";
         return;
     }
 
-
    try {
 
       auto ofile = File(args[3], "w");
@@ -57,7 +53,7 @@ EOS";
 	  string ptag;
 	  int line_start = 0;
 
-          if (line[0] == '-') {// '-' imples a new speaker.
+          if (line[0] == '-') {   // '-' imples a new speaker.
 
 	        ptag =  "<p class='new-speaker'>" ;
 		line_start = 2;
@@ -67,7 +63,7 @@ EOS";
 		ptag = "<p>"; 
 	  }
 
-          // Slice off the newline from ebuf
+          // For ebug, we slice off the newline`
           ofile.writeln(ptag, line[line_start .. $], "</p>\n", ptag, ebuf[line_start .. ebuf.length - 1], "</p>");
       }
 
