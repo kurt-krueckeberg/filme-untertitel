@@ -1,8 +1,10 @@
 body {
   margin-left: 3em;
 
-  color: #FFFFFF;  
-  background-color: #002451;
+  font-family: 'Lato Medium', Arial, sans-serif;
+
+  color: black;        
+  background-color: white;   
 
   /* Alernate colors: */
   /* 
@@ -11,8 +13,8 @@ body {
    */
 
   /* 
-  color: black;        
-  background-color: white;   
+  color: #FFFFFF;                     VS Code Blue dar theme
+  background-color: #002451; 
    */
 
   /* 
@@ -21,23 +23,13 @@ body {
   */
 }
 
-#container {
-
-   display: grid; 
-   grid-template-columns: 40% 40%; 
-   padding-left: 2em;
-}
-
-#container p { /* paragraph style--font, text color, background color, spacig with paragraphs and between paragraphs */
-
-  font-family: 'Lato Medium', Arial, sans-serif;
-
+p { 
   padding-top: 3px;
   padding-bottom: 3px;
   padding-right: 6px;
-  line-height: 1.4em; /* <--- Spacing between line within paragraph */ 
-  margin: 4px 0;      /* <--- Spacing between paragraphs. It is equivalent to the statements
-                 
+  line-height: 1.7em; /* <--- Spacing between line within paragraph */ 
+  margin: 6px 0;      /* <--- Spacing between paragraphs. It is equivalent to the statements
+          
   below: 
 
   margin-top: 7px;
@@ -47,19 +39,27 @@ body {
  */
 }
 
-#container p:hover {
-	background-color:  #1a346c; 
-
-}	
-
-p.new-speaker {
-  font-weight: 600;
-}
 
 h1, h2, h3, h4, h5 {
 
   font-family: 'Karla Semibold', 'Open Sans', Arial, sans-serif;
 }
+
+/*
+ * Specify table width
+*/	
+div.w50 {
+    width: 50%;	
+}
+
+div.w60 {
+    width: 60%;	
+}
+
+div.w70 {
+    width: 70%;	
+}
+
 
 table {
  /* 
