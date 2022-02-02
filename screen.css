@@ -3,18 +3,25 @@ body {
 
   font-family: 'Lato Medium', Arial, sans-serif;
 
-  color: black;        
-  background-color: white;   
+  color: #FFFFFF;  
+  background-color: #002451;
+
 
   /* Alernate colors: */
+
   /* 
-  color: #FFFFFF;  
-  background-color: #102450;
+  color: #FFFFFF;          VS Code Blue theme
+  background-color: #002451; 
    */
 
   /* 
-  color: #FFFFFF;                     VS Code Blue dar theme
-  background-color: #002451; 
+  color: black;        
+  background-color: white;   
+   */
+
+  /* 
+  color: #FFFFFF;  
+  background-color: #102450;
    */
 
   /* 
@@ -23,7 +30,17 @@ body {
   */
 }
 
-p { 
+#container {
+
+   display: grid; 
+   grid-template-columns: 40% 40%; 
+   padding-left: 2em;
+}
+
+#container p { /* paragraph style--font, text color, background color, spacig with paragraphs and between paragraphs */
+
+  font-family: 'Lato Medium', Arial, sans-serif;
+
   padding-top: 3px;
   padding-bottom: 3px;
   padding-right: 6px;
@@ -38,6 +55,11 @@ p {
   margin-right: 0px;  
  */
 }
+
+#container p:hover {
+	background-color:  #1a346c; 
+
+}	
 
 
 h1, h2, h3, h4, h5 {

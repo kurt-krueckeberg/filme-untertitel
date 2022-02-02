@@ -1,21 +1,21 @@
 body {
-  margin-left: 3em;
+/*  margin-left: 3em;*/
 
   color: #FFFFFF;  
   background-color: #002451;
-  /* focus color  #1a346c */
 
-  /* . 
+  /* Alernate colors: */
+  /* 
   color: #FFFFFF;  
   background-color: #102450;
    */
 
-  /* Alernate colors: 
+  /* 
   color: black;        
   background-color: white;   
    */
 
-  /* Alernate colors: 
+  /* 
   color: #D0CFCC;              
   background-color: #171421;  
   */
@@ -25,7 +25,9 @@ body {
 
    display: grid; 
    grid-template-columns: 40% 40%; 
-   padding-left: 2em;
+   margin: auto;
+   width 60%;
+/*   padding-left: 2em; */
 }
 
 #container p { /* paragraph style--font, text color, background color, spacig with paragraphs and between paragraphs */
@@ -39,20 +41,22 @@ body {
   margin: 4px 0;      /* <--- Spacing between paragraphs. It is equivalent to the statements
                  
   below: 
-
   margin-top: 7px;
   margin-bottom: 7px;
   margin-left: 0px;
   margin-right: 0px;  
  */
 }
+
 #container p:hover {
 	background-color:  #1a346c; 
 
 }	
+
 p.new-speaker {
   font-weight: 600;
 }
+
 h1, h2, h3, h4, h5 {
 
   font-family: 'Karla Semibold', 'Open Sans', Arial, sans-serif;
