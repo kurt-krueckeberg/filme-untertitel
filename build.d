@@ -14,10 +14,10 @@ string header = q"EOS
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
 <html>
 <head>
-	<meta http-equiv="content-type" content="text/html" charset="UTF-8"/>
-        <link rel="stylesheet" type="text/css" media="screen" href="screen.css">
-        <link rel="stylesheet" type="text/css" media="print" href="print.css">
-	<title></title>
+    <meta http-equiv="content-type" content="text/html" charset="UTF-8"/>
+    <link rel="stylesheet" type="text/css" media="screen" href="../screen.css">
+    <link rel="stylesheet" type="text/css" media="print" href="../print.css">
+    <title>German&ndash;English Translation</title>
 </head>
 <body>
 <div id="container">
@@ -69,7 +69,7 @@ EOS";
 
       ofile.write(footer);
 
-   } catch ( ErrnoException e) { // FileException is unidentified.
+   } catch (ErrnoException e) { // FileException is unidentified.
 
       writeln(e.msg); 
       writeln(e.file); 
