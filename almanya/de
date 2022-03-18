@@ -1,49 +1,3 @@
-<!DOCTYPE html>
-<html lang="de">
-    <head>
-        <title>TODO supply a title</title>
-        <meta charset="UTF-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<style media="screen">
-     body {
-       margin-left: 3em;
-     
-       color: #FFFFFF;  
-       background-color: #002451;
-     }
-     
-     #container {
-        display: grid; 
-        grid-template-columns: 45%;  
-        padding-left: 2em;  
-     }
-     
-     #container p {
-       font-family: 'Lato Medium', Arial, sans-serif;
-     
-       padding-top: 3px;
-       padding-bottom: 3px;
-       padding-right: 6px;
-       line-height: 1.4em; /* <--- Spacing between line within paragraph */ 
-       margin: 4px 0;     
-     }
-     
-     #container p:hover {
-     	background-color:  #1a346c; 
-     }	
-     
-     p.new-speaker {
-       font-weight: 600;
-     }
-     
-     h1, h2, h3, h4, h5 {
-     
-       font-family: 'Karla Semibold', 'Open Sans', Arial, sans-serif;
-     }
-</style>
-</head>
-<body>
-<div id="container">
 <p>Das bin ich mit meinem Großvater. Das ist das erste Bild von uns zusammen.</p>
 <p>Und das sind wir heute, viele Jahre später mit der ganzen Familie.</p>
 <p>Ich ganz links, und Opa ganz rechts.</p>
@@ -895,6 +849,3 @@
 <p>Ihr seht hier, dass die Türkei ein viel größeres Land ist.</p>
 <p>- Engin, was ist? - Eigentlich komme ich aus Ovacik, das ist auch in Anatolien.</p>
 <p>Dann stellen wir dich dazu</p>
-<div>
-</body>
-</html>
