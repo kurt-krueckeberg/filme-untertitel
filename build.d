@@ -20,11 +20,11 @@ string header = q"EOS
       <link rel="stylesheet" media="screen" href="../screen.css" />
 </head>
 <body>
-<div id="container">
+<section>
 EOS";
 
 string footer = q"EOS
-</div>
+</section>
 </body>
 </html>
 EOS";
