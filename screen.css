@@ -24,10 +24,11 @@ body {
 #container {
 
    display: grid; 
-   grid-template-columns: 30% 40%;  
+   grid-template-columns: 40% 40%;  
+   margin-left: 10%;
   /* grid-template-columns: auto auto; */ 
    column-gap: 10px;
-   padding-left: 2em;  
+  /* padding-left: 2em; */
 }
 
 #container p { /* paragraph style--font, text color, background color, spacig with paragraphs and between paragraphs */
