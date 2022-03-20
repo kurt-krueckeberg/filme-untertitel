@@ -1,71 +1,122 @@
 <!DOCTYPE html>
 <html lang="de">
     <head>
-        <title>TODO supply a title</title>
-        <meta charset="UTF-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<style media="screen">
-     body {
-       margin-left: 3em;
-     
-       color: #FFFFFF;  
-       background-color: #002451;
-     }
-     
-     #container {
-       margin: auto;
-       padding: 0;
-       width: 55%;
-     }
-     
-     #container p {
-       font-family: 'Lato Medium', Arial, sans-serif;
-     
-       padding-top: 3px;
-       padding-bottom: 3px;
-       padding-right: 6px;
-       line-height: 1.4em; /* <--- Spacing between line within paragraph */ 
-       margin: 4px 0;     
-     }
-     
-     #container p:hover {
-     	background-color:  #1a346c; 
-     }	
-     
-     p.new-speaker {
-       font-weight: 600;
-     }
-     
-     h1, h2, h3, h4, h5 {
-     
-       font-family: 'Karla Semibold', 'Open Sans', Arial, sans-serif;
-     }
+      <title>TODO supply a title</title>
+      <meta charset="UTF-8">
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<style>
+body {
+  margin-left: 3em;
+
+  color: #FFFFFF;  
+  background-color: #002451;
+
+  /* Alernate colors: */
+  /* 
+  color: #FFFFFF;  
+  background-color: #102450;
+   */
+
+  /* 
+  color: black;        
+  background-color: white;   
+   */
+
+  /* 
+  color: #D0CFCC;              
+  background-color: #171421;  
+  */
+}
+
+#container {
+   margin-left: auto;
+   margin-right: auto;
+   margin-top: 2em;
+   width: 50%;
+  /* grid-template-columns: auto auto; */ 
+}
+
+#container p { /* paragraph style--font, text color, background color, spacig with paragraphs and between paragraphs */
+
+  font-family: 'Lato Medium', Arial, sans-serif;
+
+  padding-top: 3px;
+  padding-bottom: 3px;
+  padding-right: 6px;
+  line-height: 1.4em; /* <--- Spacing between line within paragraph */ 
+  margin: 4px 0;      /* <--- Spacing between paragraphs. It is equivalent to the statements
+                 
+  below: 
+  margin-top: 7px;
+  margin-bottom: 7px;
+  margin-left: 0px;
+  margin-right: 0px;  
+ */
+}
+
+#container p:hover {
+	background-color:  #1a346c; 
+
+}	
+
+p.new-speaker {
+  font-weight: 600;
+}
+
+h1, h2, h3, h4, h5 {
+
+  font-family: 'Karla Semibold', 'Open Sans', Arial, sans-serif;
+}
+
+table {
+ /* 
+  font-family: Arial, Helvetica, sans-serif;
+  */
+  border-collapse: collapse;
+  width: 100%;
+}
+
+table td, table th {
+  border: 1px solid #ddd;
+  padding: 8px;
+}
+
+table tr:nth-child(even){background-color: #f2f2f2;}
+
+table tr:hover {background-color: #ddd;}
+
+table th {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: left;
+  background-color: #04AA6D;
+  color: white;
+}
 </style>
 </head>
 <body>
 <div id="container">
+<h1>Almanya</h1>
 <p>Das bin ich mit meinem Großvater. Das ist das erste Bild von uns zusammen.</p>
 <p>Und das sind wir heute, viele Jahre später mit der ganzen Familie.</p>
 <p>Ich ganz links, und Opa ganz rechts.</p>
 <p>Das ist das letzte Bild, das es von uns gibt.</p>
 <p>Kurz nachdem dieses Foto gemacht wurde, hat sich alles verändert.</p>
-<p>Ich denke oft darüber nach, wie mein Leben verlaufen wäre,</p>
-<p>wenn ich in der Türkei auf die Welt gekommen wäre und nicht in Deutschland.</p>
+<p>Ich denke oft darüber nach, wie mein Leben verlaufen wäre, wenn ich in der Türkei auf die Welt gekommen wäre und nicht in Deutschland.</p>
 <p>Dass ich aber "made in Germany" bin, verdanke ich dem deutschen Wirtschaftswunder.</p>
 <p>Gehen Sie mit der Konjunktur (Gehen Sie mit, Gehen Sie mit)</p>
 <p>Gehen Sie mit auf diese Tour</p>
-<p>Sehen Sie doch, die anderen stehen schon da</p>
-<p>und nehmen die Creme schon voll beim großen Festbankett</p>
+<p>Sehen Sie doch, die anderen stehen schon da und nehmen die Creme schon voll beim großen Festbankett</p>
 <p>Seit Mitte der Fünfziger gibt es einen steten Strom von Arbeitskräften vorwiegend aus dem Süden Europas.</p>
 <p>Deutsche Ärzte untersuchen gleich vor Ort die Arbeitsfähigkeit der Männer und Frauen.</p>
 <p>Das Prozedur gleicht dem eines Viehmarktes.</p>
 <p>Der für gut Befundene darf nach Deutschland halt.</p>
-<p>Sie kennen die akute Not auf dem Arbeitsmarkt, und, äh..und da seinerzeit nicht genügend Facharbeiter – Italiener, Spanier – greifbar waren...</p>
-<p>haben wir auf türkische Gastarbeiter zurückgegriffen.</p>
+<p>Sie kennen die akute Not auf dem Arbeitsmarkt, und, äh..und da seinerzeit nicht genügend Facharbeiter – Italiener, Spanier – greifbar waren... haben wir auf türkische Gastarbeiter zurückgegriffen.</p>
 <p>Am 10. September 1964 schrieb ein Gastarbeiter deutsche Geschichte.</p>
 <p>An diesem Tag erreichte die Zahl der Einwanderer einen historischen Rekord.</p>
 <p>Einem dieser Männer war es vorherbestimmt, zur Ruhm und Ehre zu gelangen.</p>
-<p>- Nach Ihnen. - Nein, nach Ihnen.</p>
+<p>- Nach Ihnen.</p>
+<p>- Nein, nach Ihnen.</p>
 <p>Herzlichen Glückwunsch! Sie sind der einmillionste Gastarbeiter in Deutschland! Willkommen!</p>
 <p>Aber eben leider nur Einem.</p>
 <p>Was halten Sie von Deutschland?</p>
@@ -120,12 +171,13 @@
 <p>Oder lieber dieses?</p>
 <p>So...</p>
 <p>Herr und Frau Yilmaz...</p>
-<p>Jetzt fehlt nur noch der Punkt vier auf einhundertachtzehn...</p>
+<p>Jetzt fehlt nur noch der Punkt vier auf (Seite) einhundertachtzehn...</p>
 <p>Verpflichten Sie sich als baldige deutsche Staatsbürger die deutsche Kultur als Leitkultur zu übernehmen.</p>
 <p>Sehr schön, das bedeutet, Sie werden Mitglied in einem Schützenverein, essen zweimal in der Woche Schweinefleisch...</p>
 <p>Sie sehen jeden Sonntag "Tatort" und verbringen jeden zweiten Sommer auf Mallorca.</p>
 <p>Sind Sie bereit, diese Pflichten auf sich zu nehmen?</p>
-<p>- Aber... - Ja, natürlich.</p>
+<p>- Aber...</p>
+<p>- Ja, natürlich.</p>
 <p>Muss ja alles richtig haben.</p>
 <p>Fatma!</p>
 <p>Ich gratuliere.</p>
@@ -144,26 +196,29 @@
 <p>Kloppe! Kloppe!</p>
 <p>Lara!</p>
 <p>Ja, Mama?</p>
-<p>- Ich gehe schon mal zu Oma und Opa. - Ja, okay.</p>
+<p>- Ich gehe schon mal zu Oma und Opa.</p>
+<p>- Ja, okay.</p>
 <p>Hallo, Mama.</p>
 <p>Schwägerin! - Die sind aber gut geworden!</p>
 <p>Ja? - Super.</p>
 <p>Cenk, vergiss den Kuchen nicht. - Ja, Mama, schnell.</p>
 <p>Wir sollen den Tisch fertigmachen.</p>
 <p>Oh, guck mal, mein Junge! Na, wie war es heute in der Schule-</p>
-<p>- Was ist mit dem Auge passiert? - Nichts! Hier, der ist für euch.</p>
-<p>- Cenk, was ist mit dem Auge los? - Nichts!</p>
+<p>- Was ist mit dem Auge passiert?</p>
+<p>- Nichts! Hier, der ist für euch.</p>
+<p>- Cenk, was ist mit dem Auge los?</p>
+<p>- Nichts!</p>
 <p>Mein Sohn, was ist mit deinem Auge passiert?</p>
 <p>Nichts!</p>
 <p>Ein türkischer Junge aus seiner Klasse hat ihn gehänselt, er wäre kein richtiger Türke.</p>
 <p>Was?</p>
-<p>Ali! Du gehst morgen zur Schule...</p>
-<p>und zeigst du diesem esol eşek, was für Türken wir sind!</p>
+<p>Ali! Du gehst morgen zur Schule...und zeigst du diesem esol eşek, was für Türken wir sind!</p>
 <p>Papa!</p>
 <p>Mein Enkelkind, kein richtiger Türke, hä?</p>
 <p>Finger weg!</p>
 <p>So lecker.</p>
-<p>- Und wie geht's dir? - Gut.</p>
+<p>- Und wie geht's dir?</p>
+<p>- Gut.</p>
 <p>Mama, warum musst du es immer so scharf machen, na?</p>
 <p>Dann iss doch Reis.</p>
 <p>Der ist auch scharf. Das ätzt mir den Magen weg.</p>
@@ -176,27 +231,30 @@
 <p>Nichts...</p>
 <p>Das machst du aus Prinzip.</p>
 <p>Familie!</p>
-<p>- Ich habe Überraschung! - Wir sind jetzt Deutsche!</p>
-<p>- Was? - Deutsche?</p>
-<p>- Ist nicht wahr! - Wahnsinn!</p>
+<p>- Ich habe Überraschung!</p>
+<p>- Wir sind jetzt Deutsche!</p>
+<p>- Was?</p>
+<p>- Deutsche?</p>
+<p>- Ist nicht wahr!</p>
+<p>- Wahnsinn!</p>
 <p>Nein! Das ist nicht Überraschung!</p>
-<p>Überraschung ist:</p>
-<p>Ich habe Haus gekauft.</p>
+<p>Überraschung ist: Ich habe Haus gekauft.</p>
 <p>In Türkei, im Dorf.</p>
-<p>In-in Heimat.</p>
+<p>In, in Heimat.</p>
 <p>Warum das denn? Wollt ihr zurückkehren oder was?</p>
 <p>Schau mal. Das ist unsere Heimat.</p>
-<p>- Schön, ne? - Hä?</p>
+<p>- Schön, ne?</p>
+<p>- Hä?</p>
 <p>Da kommen wir her?</p>
-<p>Also, ich möchte, dass wir in den kommenden Ferien…</p>
-<p>alle zusammen in die Türkei fahren.</p>
+<p>Also, ich möchte, dass wir in den kommenden Ferien…alle zusammen in die Türkei fahren.</p>
 <p>Das Haus ist alt und muss renoviert werden.</p>
 <p>Es wäre sehr gut, wenn ihr alle mithelfen würdet.</p>
 <p>Wir haben andere Pläne für die Herbstferien, wir können nicht.</p>
 <p>Der Muhamed hat doch nichts zu tun, er ist ja arbeitslos.</p>
 <p>Kann doch runterfahren, ich zahl auch noch den Flug.</p>
 <p>- Veli! Was denn, ist doch wahr!</p>
-<p>Ich zahle alle Flüge! - Tja, Super!</p>
+<p>Ich zahle alle Flüge!</p>
+<p>- Tja, Super!</p>
 <p>Ach, nee!</p>
 <p>Ja, ich hätte überhaupt gar kein Spaß!</p>
 <p>Es reicht! Ruhe, verdammt noch mal.</p>
@@ -205,7 +263,8 @@
 <p>Wir sine eine Familie.</p>
 <p>Eine türkische Familie!</p>
 <p>Was sind wir denn jetzt? Türken oder Deutsche?</p>
-<p>- Deutsche. - Türken.</p>
+<p>- Deutsche.</p>
+<p>- Türken.</p>
 <p>Naja, Dede und Nene haben jetzt einen deutschen Pass.</p>
 <p>Ist ein Stück Papier!</p>
 <p>Wir sind immer noch Türken! Und du auch!</p>
@@ -213,9 +272,11 @@
 <p>Nein, das geht nicht! Einfach die eine Mannschaft oder die andere!</p>
 <p>Wenn Oma und Opa Türken sind, warum sind sie dann hier?</p>
 <p>Na...</p>
-<p>- Weil die Deutschen sie gerufen haben. - Gerufen?</p>
+<p>- Weil die Deutschen sie gerufen haben.</p>
+<p>- Gerufen?</p>
 <p>Ja, also, nicht nur sie, sondern auch ganz viel andere Türken und Italiener und Jugoslawen und so.</p>
-<p>- Die wurden alle gerufen. - Echt?</p>
+<p>- Die wurden alle gerufen.</p>
+<p>- Echt?</p>
 <p>Liebe Weltbürger!</p>
 <p>Hier spricht die Bundesrepublik Deutschland!</p>
 <p>Wir suchen Arbeitskräfte!</p>
@@ -247,11 +308,13 @@
 <p>Hat das etwas mit Sexuales zu tun?</p>
 <p>Los, wir fangen die Hühner! Wenn man sie fest genug drückt, dann legen sie auch ein Ei!</p>
 <p>Echt?</p>
-<p>- Hey, Finger weg von den Hühnern! - Geh weg!</p>
+<p>- Hey, Finger weg von den Hühnern!</p>
+<p>- Geh weg!</p>
 <p>Hey, Muhamed!</p>
 <p>Ihr Söhne eines Esels, wie oft habe ich euch gesagt, ihr sollt die armen Hühner nicht jagen, na?</p>
 <p>Sie legen doch voll lauter Aufregung keine Eier!</p>
-<p>- Das waren wir nicht. - Wirklich, Papa. - Ehrenwort!</p>
+<p>- Das waren wir nicht.</p>
+<p>- Wirklich, Papa. - Ehrenwort!</p>
 <p>Eine fünfköpfige Familie durchzubringen war in dieser Zeit nicht leicht.</p>
 <p>So sehr Hüseyin sich auch bemühte, es reichte kaum zum Leben.</p>
 <p>Na. Guck mal, was hier steht.</p>
@@ -289,9 +352,11 @@
 <p>Opa hatte nicht vor, seine ganze Familie nach Deutschland zu holen.</p>
 <p>Oh, Gott, mein Kopftuch!</p>
 <p>Wie kam es also dazu?</p>
-<p>- Was? - Jawohl!</p>
+<p>- Was?</p>
+<p>- Jawohl!</p>
 <p>Ganze einundzwanzig Tage am Stück hat er die Schule geschwänzt!</p>
-<p>- Vier! - Sechs!</p>
+<p>- Vier!</p>
+<p>- Sechs!</p>
 <p>Fünf und es ist ein Geschäft.</p>
 <p>Fünf und die Rute?</p>
 <p>Hey, was soll das? Das war ein richtiges Geschäft!</p>
@@ -363,15 +428,18 @@
 <p>Weil wir fahren alle zusammen hin. Opa hat Haus gekauft...</p>
 <p>und braucht Hilfe von Familie.</p>
 <p>Und ganze Familie.</p>
-<p>- Wir müssen dann noch los. - Ja, dann gehen wir auch.</p>
+<p>- Wir müssen dann noch los.</p>
+<p>- Ja, dann gehen wir auch.</p>
 <p>Ich hab zu Hause zwei Termine.</p>
 <p>Natürlich.</p>
 <p>Danke schön.</p>
 <p>Bist fertig? Komm mal, ausspucken.</p>
 <p>Worauf hast du denn Lust?</p>
 <p>Tapferer Schneidemann oder die Sieben Raben?</p>
-<p>- Lieber das! - Ali Baba und die Vierzig Räuber.</p>
-<p>- War Ali Baba eigentlich auch Türke? - So mutig wie er war?</p>
+<p>- Lieber das!</p>
+<p>- Ali Baba und die Vierzig Räuber.</p>
+<p>- War Ali Baba eigentlich auch Türke?</p>
+<p>- So mutig wie er war?</p>
 <p>Bestimmt.</p>
 <p>Warum kann ich eigentlich kein Türkisch?</p>
 <p>Du kannst doch ein bisschen Türkisch.</p>
@@ -430,7 +498,8 @@
 <p>Sind die verrückt geworden? Das mache ich auf keinen Fall!</p>
 <p>Allmächtiger! Vor Angela Merkel?</p>
 <p>Warte, warte, das hier kommt noch rein. Das...das hier.</p>
-<p>- Bist du wahnsinnig? - Warum?</p>
+<p>- Bist du wahnsinnig?</p>
+<p>- Warum?</p>
 <p>Was soll der ganze Kram?</p>
 <p>Willst du einen Laden in der Türkei aufmachen oder was?</p>
 <p>Das sind Geschenke!</p>
@@ -455,10 +524,14 @@
 <p>Allmächtiger, muss das jetzt sein? Wir fahren doch in den Urlaub.</p>
 <p>Sollen wir in ein dreckiges Haus zurückkehren?</p>
 <p>Jetzt aber schnell. Das Taxi ist da!</p>
-<p>- Beeil dich, schnell! - Ich komme ja!</p>
-<p>- Oh, vier Stunden Verspätung! - Müssen sie das Flugzeug erst noch bauen, oder was?</p>
-<p>- Gabi! Vier Stunden! - Nee, echt?</p>
-<p>- Mir ist langweilig! - Willst du...willst du was spielen?</p>
+<p>- Beeil dich, schnell!</p>
+<p>- Ich komme ja!</p>
+<p>- Oh, vier Stunden Verspätung!</p>
+<p>- Müssen sie das Flugzeug erst noch bauen, oder was?</p>
+<p>- Gabi! Vier Stunden!</p>
+<p>- Nee, echt?</p>
+<p>- Mir ist langweilig!</p>
+<p>- Willst du...willst du was spielen?</p>
 <p>Nein, ich will die Geschichte hören, Canan!</p>
 <p>Okay, ähm...</p>
 <p>Also...</p>
@@ -466,7 +539,8 @@
 <p>Die Männer hier haben keine Schnauzbärte.</p>
 <p>Siehst du? Das sind hier alles Riesen.</p>
 <p>Wieso hält er denn jetzt?</p>
-<p>- Was? - Keine Ahnung.</p>
+<p>- Was?</p>
+<p>- Keine Ahnung.</p>
 <p>Eine Riesenratte, einige Riesenratten!</p>
 <p>Wo?</p>
 <p>Hey, die fressen uns bestimmt auf!</p>
@@ -474,10 +548,12 @@
 <p>Warum hat er keine richtigen Beine?</p>
 <p>Und warum ist die Ratte an einem Seil?</p>
 <p>Die Deutschen gehen mit ihren Hunden spazieren. Dazu machen sie ihn an ein Seil.</p>
-<p>- Sie gehen mit ihnen spazieren? - Ja.</p>
+<p>- Sie gehen mit ihnen spazieren?</p>
+<p>- Ja.</p>
 <p>Können die ruhig das nicht alleine?</p>
 <p>Sie lassen die Tiere sogar in ihren Betten schlafen!</p>
-<p>- Menschen und Tiere in einem Bett? - Ja!</p>
+<p>- Menschen und Tiere in einem Bett?</p>
+<p>- Ja!</p>
 <p>Allmächtiger, steh uns bei.</p>
 <p>Veli, jetzt komm!</p>
 <p>Das ist unser neues Zuhause.</p>
@@ -485,7 +561,8 @@
 <p>Das ist unsere eigene Toilette.</p>
 <p>Und was ist das für ein komischer Stuhl?</p>
 <p>Das ist ein deutsches Klo. Da setzt man sich drauf.</p>
-<p>- Mit dem Po da drauf? - Da drauf.</p>
+<p>- Mit dem Po da drauf?</p>
+<p>- Da drauf.</p>
 <p>Da geht keiner drauf, bis ich sie geputzt habe.</p>
 <p>Wer weiß, was die Deutschen für Krankheiten haben.</p>
 <p>Allmächtiger, steh uns bei.</p>
@@ -496,15 +573,19 @@
 <p>Putz schneller, ich muss mal!</p>
 <p>Ich wische hier die Scheiße von den Deutschen weg...</p>
 <p>und dies ist auch noch zu langsam?</p>
-<p>- Aber ich muss mal! - Geh hinters Haus!</p>
+<p>- Aber ich muss mal!</p>
+<p>- Geh hinters Haus!</p>
 <p>Was ist denn?</p>
-<p>- Was ist denn das? - Das ist Jesus.</p>
-<p>- Das beten die Christen an. - Nimm das weg!</p>
+<p>- Was ist denn das?</p>
+<p>- Das ist Jesus.</p>
+<p>- Das beten die Christen an.</p>
+<p>- Nimm das weg!</p>
 <p>Nimm das weg!</p>
 <p>Eine Holzfigur. Die beten eine Holzfigur an?</p>
 <p>Allmächtiger, was es nicht alles gibt!</p>
 <p>Kannst du das aber lassen?</p>
-<p>- Du hast doch viel mehr Decke! - Stimmt gar nicht!</p>
+<p>- Du hast doch viel mehr Decke!</p>
+<p>- Stimmt gar nicht!</p>
 <p>Du bist doch so fett, du brauchst gar keine Decke.</p>
 <p>Pass auf!</p>
 <p>Hüseyin, du musst morgen bitte einkaufen, wir haben kein Brot mehr.</p>
@@ -549,30 +630,36 @@
 <p>Sie sind da, sie sind da!</p>
 <p>Da ist er, der erste Deutsche. Sieht auch aus wie einer.</p>
 <p>Echt hässlich!</p>
-<p>- War er wirklich so hässlich? - Natürlich! Schau ihn dir an!</p>
+<p>- War er wirklich so hässlich?</p>
+<p>- Natürlich! Schau ihn dir an!</p>
 <p>Ist ja doch hässlich!</p>
 <p>Endlich da!</p>
 <p>Ich hole mal.</p>
 <p>Wartet hier.</p>
 <p>Kannst du dir das bitte mal anschauen?</p>
 <p>Hier steht, dass ihr auf einen Empfang in Schloss Bellevue eingeladen sein sollen!</p>
-<p>- Was? - Unter dem Motto, Deutschland sagt Danke?</p>
+<p>- Was?</p>
+<p>- Unter dem Motto, Deutschland sagt Danke?</p>
 <p>Krass! Hier steht, dass die Bundeskanzlerin anwesend sein wird!</p>
 <p>Du darfst dich freuen, wenn du als einmillionunderster</p>
 <p>Gastarbeiter etwas zu anderen sagen würdest.</p>
-<p>- Ist nicht wahr. - Doch! Guck doch!</p>
+<p>- Ist nicht wahr.</p>
+<p>- Doch! Guck doch!</p>
 <p>Ich glaub's nicht.</p>
 <p>Dede wird vor der ganzen Nation sprechen!</p>
-<p>- Ich sag da gar nichts! - Aber wieso denn?</p>
+<p>- Ich sag da gar nichts!</p>
+<p>- Aber wieso denn?</p>
 <p>Ich werde dahingehen. Ich weiß genau, was ich ihnen erzählen werde!</p>
 <p>Wird niemand interessieren, was du zu sagen hast! Papa ist eingeladen, nicht du!</p>
 <p>Halt mal die Luft an.</p>
 <p>Haltet alle den Mund!</p>
-<p>- Ich gehe nicht hin, damit fertig! - Er kommt ins Fernsehen!</p>
+<p>- Ich gehe nicht hin, damit fertig!</p>
+<p>- Er kommt ins Fernsehen!</p>
 <p>Nene und Dede werden in ihren alten Tagen noch berühmt!</p>
 <p>Was, ich? Nichts Fernsehen!</p>
 <p>Gut, dann ähm, gehe ich eben mit.</p>
-<p>- Warum denn du? - Warum nicht?</p>
+<p>- Warum denn du?</p>
+<p>- Warum nicht?</p>
 <p>Ich bin der Älteste, ich gehe dorthin! - Ich bin wohl die Fotogenste!</p>
 <p>Du musst dir genau überlegen, was du da sagen willst.</p>
 <p>Ich sag da irgendwas, kein Problem!</p>
@@ -580,11 +667,14 @@
 <p>Mein Deutsch ist viel besser als Türkisch von meisten Deutschen!</p>
 <p>Ich lasse mir schon was einfallen. Jetzt machen wir erst mal Urlaub.</p>
 <p>Wenn da einer hingeht, dann ich. Ich bin der Älteste!</p>
-<p>- Willst du welche kaufen? - Ja, gib mir mal ein paar.</p>
-<p>- Wie viele willst du? - Gib mir zehn.</p>
+<p>- Willst du welche kaufen?</p>
+<p>- Ja, gib mir mal ein paar.</p>
+<p>- Wie viele willst du?</p>
+<p>- Gib mir zehn.</p>
 <p>Was? Zehn Stück?</p>
 <p>Er soll doch dem Jungen nichts abkaufen.</p>
-<p>- Damit unterstützt er nur, dass seine Eltern ihn weiter arbeiten lassen. - Anscheinend geht's nicht anders.</p>
+<p>- Damit unterstützt er nur, dass seine Eltern ihn weiter arbeiten lassen.</p>
+<p>- Anscheinend geht's nicht anders.</p>
 <p>Wer lässt schon gerne seine Kinder arbeiten?</p>
 <p>Hier, großer Bruder, den schenk ich dir dazu.</p>
 <p>Danke, kleiner Mann!</p>
@@ -594,15 +684,18 @@
 <p>Die letzte Zeit, die war ziemlich ereignisreich so für mich...</p>
 <p>Und es sind halt ein paar Sachen passiert... - Das gibt's doch nicht!</p>
 <p>Da sind ja Müllfrauen! Und das hier!</p>
-<p>- Wo ist dein Onkel Mohamed? - Mama.</p>
+<p>- Wo ist dein Onkel Mohamed?</p>
+<p>- Mama.</p>
 <p>Ergibt sich diesen Müllwagen und darauf zwei Frauen!</p>
 <p>Man soll doch nicht an diesen Raststätten essen.</p>
 <p>Komm schon, ist total lecker.</p>
-<p>- Du verpasst was. - Ja?</p>
+<p>- Du verpasst was.</p>
+<p>- Ja?</p>
 <p>'Tschuldigung...</p>
 <p>Gib mich...gemischte Platte. Für mir...bitte.</p>
 <p>Und?</p>
-<p>- Lecker, na? - Das ist gut.</p>
+<p>- Lecker, na?</p>
+<p>- Das ist gut.</p>
 <p>In welche Klasse gehst du?</p>
 <p>Warum sagst du nichts? Du sprichst doch Türkisch!</p>
 <p>Mein Sohn, warum du reden nicht Türkisch?</p>
@@ -620,14 +713,19 @@
 <p>Danke, kleiner Mann.</p>
 <p>Vielen Dank für das Essen, Onkel. Möge Allah dich immer beschützen. - Oh, ich glaube, dass...</p>
 <p>Mir ist ein bisschen übel. - Stell dich nicht so an.</p>
-<p>- Danke, dich auch. - Auf Wiedersehen.</p>
-<p>- Geht doch! - Hat noch Hähnchen für Cenk mit dabei?</p>
-<p>- Er isst das Gleiche wie wir. - Cenk, schau mal.</p>
+<p>- Danke, dich auch.</p>
+<p>- Auf Wiedersehen.</p>
+<p>- Geht doch!</p>
+<p>- Hat noch Hähnchen für Cenk mit dabei?</p>
+<p>- Er isst das Gleiche wie wir.</p>
+<p>- Cenk, schau mal.</p>
 <p>Was hast du?</p>
-<p>- Was ist denn? - Vielleicht doch welche?</p>
+<p>- Was ist denn?</p>
+<p>- Vielleicht doch welche?</p>
 <p>Nein!</p>
 <p>Sehr geehrte Frau Bundeskanzlerin und liebe Mitbürger!</p>
-<p>- Gut? - Mm-hmm, ist okay.</p>
+<p>- Gut?</p>
+<p>- Mm-hmm, ist okay.</p>
 <p>So...</p>
 <p>Ich danke Ihnen viel, dass Sie mich hier eingeladen...</p>
 <p>Das heißt sehr, "Ich danke Ihnen sehr!" Mann, Dede!</p>
@@ -643,10 +741,12 @@
 <p>Ganz stolz, mit erhobenen Armen. Komm und tanz mit mir.</p>
 <p>Du weißt doch, dass ich in der Türkei bin. Mensch, das geht nicht!</p>
 <p>Doch, das waren zwei Müllfrauen, die eine blond und die andere Dunkles!</p>
-<p>- Es gibt keine blonden Müllfrauen! - Doch! Auf jeden Fall, ich habe sie doch gesehen...</p>
+<p>- Es gibt keine blonden Müllfrauen!</p>
+<p>- Doch! Auf jeden Fall, ich habe sie doch gesehen...</p>
 <p>Deine Mutter hat recht. Setz dich wenigstens hier.</p>
 <p>Canan?</p>
-<p>- Geht's weiter? - Nein, nein nein.</p>
+<p>- Geht's weiter?</p>
+<p>- Nein, nein nein.</p>
 <p>Wir haben Zeit.</p>
 <p>Vorhin hast du auch schon nichts gegessen.</p>
 <p>Weiß es deine Mutter?</p>
@@ -674,10 +774,12 @@
 <p>Was hast du?</p>
 <p>Hitze, Hitze, alles ist okay.</p>
 <p>Meine Beine schwellen wie Steine hier.</p>
-<p>- Wann sind wir endlich da? Mir ist langweilig! - Cenk!</p>
+<p>- Wann sind wir endlich da? Mir ist langweilig!</p>
+<p>- Cenk!</p>
 <p>Willst du Rest von Geschichte hören?</p>
 <p>Geht's denn noch weiter? - Natürlich!</p>
-<p>- Canan? - Okay. Also, wo war ich denn?</p>
+<p>- Canan?</p>
+<p>- Okay. Also, wo war ich denn?</p>
 <p>Unsere Familie lebte bereits in Deutschland und war seitdem nicht mehr zurückgekehrt.</p>
 <p>Umso länger sie weg von der Heimat waren, desto größer wurde der Einfluss der fremden Kultur.</p>
 <p>Guck mal!</p>
@@ -686,8 +788,10 @@
 <p>Bitte!</p>
 <p>Also, ich geh noch jetzt rein, und dann mit der Glocke läuten?</p>
 <p>Geschenke! Du musst erst die Geschenke unter den Baum legen.</p>
-<p>- Und dann mit der Glocke läuten, okay? - Okay.</p>
-<p>- Unser erstes Weihnachten! - Ja wir haben's geschafft!</p>
+<p>- Und dann mit der Glocke läuten, okay?</p>
+<p>- Okay.</p>
+<p>- Unser erstes Weihnachten!</p>
+<p>- Ja wir haben's geschafft!</p>
 <p>Oh, nein! Wir dürfen die Geschenke doch vorher nicht sehen!</p>
 <p>Eben gar nicht verpackt.</p>
 <p>Ja, dann macht eure Augen eben zu!</p>
@@ -715,8 +819,10 @@
 <p>Versprechen muss man halten, na? Wir packen sie noch ganz unten.</p>
 <p>Möge Allah seine schützende Hand über uns halten...</p>
 <p>und uns heil und gesund in der Heimat ankommen lassen.</p>
-<p>- Wieso fliegen wir nicht wieder? - Fliegen? Weißt du, was das gekostet hat?</p>
-<p>- Noch mal, du Holzkopf. - Mama.</p>
+<p>- Wieso fliegen wir nicht wieder?</p>
+<p>- Fliegen? Weißt du, was das gekostet hat?</p>
+<p>- Noch mal, du Holzkopf.</p>
+<p>- Mama.</p>
 <p>Hüseyin, du bist schlimmer als die Kinder!</p>
 <p>Wir fahren schön mit dem Auto, in drei Tagen sind wir da.</p>
 <p>Ich kann nicht drei Tage warten, ich muss jezt Pipi!</p>
@@ -751,7 +857,8 @@
 <p>Es waren nur Kleinigkeiten...</p>
 <p>aber sie häuften sich.</p>
 <p>Und führten dazu, dass Opa, ganz anders als geplant, ein Haus in Deutschland kaufte, und nicht in der Türkei.</p>
-<p>- Ist das das Haus, wo alle schon wohnen? - Genau.</p>
+<p>- Ist das das Haus, wo alle schon wohnen?</p>
+<p>- Genau.</p>
 <p>Warum können Dede und Nene eigentlich so schlecht Deutsch?</p>
 <p>Dede, sag mal, warum sprichst du so schlecht Deutsch, hä?</p>
 <p>Canan?</p>
@@ -770,7 +877,8 @@
 <p>Wie kannst du nur?</p>
 <p>Ist das der Dank für die viele Freiheiten, die ich dir gegeben habe, ja?</p>
 <p>Ich höre schon die Leute quatschen. Kannst dankbar sein, dass dein Vater das nicht miterleben muss.</p>
-<p>- Und dann mit 'nem Deutschen! - Er ist Engländer!</p>
+<p>- Und dann mit 'nem Deutschen!</p>
+<p>- Er ist Engländer!</p>
 <p>Engländer? Warum denn Engländer?</p>
 <p>Wir sind seit zwei Jahre zusammen und ich liebe ihn.</p>
 <p>Und das mit dem Kind, das war ein Unfall. Ja, willst du, dass ich es wegmachen lasse?</p>
@@ -786,7 +894,8 @@
 <p>Dann bin ich also die einzige Anständige in dieser Familie.</p>
 <p>Ist was passiert? Was ist denn?</p>
 <p>Ich finde meinen Schlüssel nicht. Der Penner von der Rezeption ist auch nicht da.</p>
-<p>- Kann ich mal hier schlafen? - Nein, nein.</p>
+<p>- Kann ich mal hier schlafen?</p>
+<p>- Nein, nein.</p>
 <p>Was ist denn mit dem Fest? Dede wollte doch eine Rede halten.</p>
 <p>Danke, dass ich hier schlafen darf.</p>
 <p>Das mit Sevgi, das...</p>
@@ -799,7 +908,8 @@
 <p>Das Sterben...Sterben ist nichts Schlimmes.</p>
 <p>Ist ganz normal.</p>
 <p>Wir Menschen werden geboren, wir werden groß, wir leben unser Leben,</p>
-<p>- und irgendwann gehen wir wieder. - Wohin denn?</p>
+<p>- und irgendwann gehen wir wieder.</p>
+<p>- Wohin denn?</p>
 <p>Setz dich.</p>
 <p>Erinnerst du dich, als wir von Wasser gesprochen haben?</p>
 <p>Dass es seine Form verändert.</p>
@@ -840,7 +950,8 @@
 <p>Mama, das ist illegal.</p>
 <p>Seit tausenden von Jahren begraben wir unsere Toten in der Erde.</p>
 <p>Was ist daran rechtswidrig? Es steht ihm zu, hier beerdigt zu werden!</p>
-<p>- Wenn du willst, kannst du mit Cenk schon mal vorher zurückgehen. - Spinnst du? Wir sind eine Familie.</p>
+<p>- Wenn du willst, kannst du mit Cenk schon mal vorher zurückgehen.</p>
+<p>- Spinnst du? Wir sind eine Familie.</p>
 <p>Cenk und ich werden dabei sein, wenn Hüseyin begraben wird.</p>
 <p>Egal, wo das ist.</p>
 <p>Gut, dann sind wir uns ja alle einig.</p>
@@ -878,14 +989,16 @@
 <p>Wir sind alles, was geschieht, nachdem wir nicht mehr sind.</p>
 <p>Und was nicht geschähe, wenn wir nicht gekommen wären.</p>
 <p>"Wir riefen Arbeitskräfte, es kamen Menschen" - Max Frisch</p>
-<p>- Ich möchte die Erfahrung der Betriebsleitung in einem Satz zusammenfassen: - Ja?</p>
+<p>- Ich möchte die Erfahrung der Betriebsleitung in einem Satz zusammenfassen:</p>
+<p>- Ja?</p>
 <p>Wenn wir wieder vor die Wahl gestellt werden, dann nur türkische Facharbeiter.</p>
 <p>So, das W, das kommt hauptsächlich in Fragewörter vor.</p>
 <p>Wieso, weshalb, warum...</p>
 <p>Cenk.</p>
 <p>Was ist?</p>
 <p>Was ist das denn?</p>
-<p>- Eine Karte von der Türkei. - Oh, vielen Dank!</p>
+<p>- Eine Karte von der Türkei.</p>
+<p>- Oh, vielen Dank!</p>
 <p>Schön.</p>
 <p>Sollen wir dazu hängen? Gut, dann hilf mir.</p>
 <p>Komm.</p>
@@ -893,8 +1006,9 @@
 <p>Und wo ist Anatolien? Hier, genau!</p>
 <p>Setz dich mal.</p>
 <p>Ihr seht hier, dass die Türkei ein viel größeres Land ist.</p>
-<p>- Engin, was ist? - Eigentlich komme ich aus Ovacik, das ist auch in Anatolien.</p>
+<p>- Engin, was ist?</p>
+<p>- Eigentlich komme ich aus Ovacik, das ist auch in Anatolien.</p>
 <p>Dann stellen wir dich dazu</p>
-<div>
+</div>
 </body>
 </html>
