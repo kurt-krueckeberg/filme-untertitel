@@ -23,10 +23,12 @@ body {
 
 section {
 
-   display: grid; 
-  /* grid-template-columns: 40% 40%;  */
-  grid-template-columns: auto auto;
-   column-gap: 10px;
+  display: grid; 
+  width: 60%;
+  margin: auto;
+  grid-template-columns: auto auto; /* grid-template-columns: 40% 40%;  */
+  column-gap: 10px;
+  
   /* padding-left: 2em; */
 }
 

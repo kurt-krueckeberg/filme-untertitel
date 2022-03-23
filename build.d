@@ -14,7 +14,7 @@ string header = q"EOS
 <!DOCTYPE html>
 <html lang="de">
     <head>
-      <title>TODO supply a title</title>
+      <title>Cineplex Film</title>
       <meta charset="UTF-8">
       <meta name="viewport" content="width=device-width, initial-scale=1.0">
       <link rel="stylesheet" media="screen" href="../screen.css" />
