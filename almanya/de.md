@@ -1,3 +1,6 @@
+﻿<section>
+
+
 Das bin ich mit meinem Großvater. Das ist das erste Bild von uns zusammen.
 
 Und das sind wir heute, viele Jahre später mit der ganzen Familie.
@@ -10,13 +13,13 @@ Kurz nachdem dieses Foto gemacht wurde, hat sich alles verändert.
 
 Ich denke oft darüber nach, wie mein Leben verlaufen wäre, wenn ich in der Türkei auf die Welt gekommen wäre und nicht in Deutschland.
 
-Dass ich aber "made in Germany" bin, verdanke ich dem deutschen Wirtschaftswunder.
+Dass ich aber “made in Germany” bin, verdanke ich dem deutschen Wirtschaftswunder.
 
-"Gehen Sie mit der Konjunktur (Gehen Sie mit, Gehen Sie mit)"
+“Gehen Sie mit der Konjunktur (Gehen Sie mit, Gehen Sie mit)”
 
 "Gehen Sie mit auf diese Tour
 
-"Sehen Sie doch, die anderen stehen schon da und nehmen die Creme schon voll beim großen Festbankett."
+“Sehen Sie doch, die anderen stehen schon da und nehmen die Creme schon voll beim großen Festbankett.”
 
 Seit Mitte der Fünfziger gibt es einen steten Strom von Arbeitskräften vorwiegend aus dem Süden Europas.
 
@@ -26,7 +29,7 @@ Das Prozedur gleicht dem eines Viehmarktes.
 
 Der für gut Befundene darf nach Deutschland halt.
 
-Sie kennen die akute Not auf dem Arbeitsmarkt, und, äh..und da seinerzeit nicht genügend Facharbeiter – Italiener, Spanier – greifbar waren... haben wir auf türkische Gastarbeiter zurückgegriffen.
+Sie kennen die akute Not auf dem Arbeitsmarkt, und, äh..und da seinerzeit nicht genügend Facharbeiter – Italiener, Spanier – greifbar waren… haben wir auf türkische Gastarbeiter zurückgegriffen.
 
 Am 10. September 1964 schrieb ein Gastarbeiter deutsche Geschichte.
 
@@ -48,7 +51,7 @@ Woher kommen Sie? Aus welchem Land?
 
 Gehen Sie mal bitte zur Seite!
 
-Doch bei Armando Rodriguez, der millionste Gastarbeiter, ... stießen die Ehrungen und ein Moped mit zwei Plätzen auf Unverständnis.
+Doch bei Armando Rodriguez, der millionste Gastarbeiter, … stießen die Ehrungen und ein Moped mit zwei Plätzen auf Unverständnis.
 
 Offenbar hat der Neuling noch nicht begriffen, dass er und seinesgleichen für den deutschen Wohlstand unentbehrlich geworden sind.
 
@@ -122,7 +125,7 @@ Istanbul.
 
 Istanbul, schön!
 
-Gut, dann...ja, dann haben wir alle.
+Gut, dann…ja, dann haben wir alle.
 
 Was soll ich morgen anziehen? Das?
 
@@ -140,21 +143,21 @@ Allmächtiger, hör nicht auf sie. Gib mir Kraft!
 
 Oder lieber dieses?
 
-So...
+So…
 
-Herr und Frau Yilmaz...
+Herr und Frau Yilmaz…
 
-Jetzt fehlt nur noch der Punkt vier auf (Seite) einhundertachtzehn...
+Jetzt fehlt nur noch der Punkt vier auf (Seite) einhundertachtzehn…
 
 Verpflichten Sie sich als baldige deutsche Staatsbürger die deutsche Kultur als Leitkultur zu übernehmen.
 
-Sehr schön, das bedeutet, Sie werden Mitglied in einem Schützenverein, essen zweimal in der Woche Schweinefleisch...
+Sehr schön, das bedeutet, Sie werden Mitglied in einem Schützenverein, essen zweimal in der Woche Schweinefleisch…
 
-Sie sehen jeden Sonntag "Tatort" und verbringen jeden zweiten Sommer auf Mallorca.
+Sie sehen jeden Sonntag “Tatort” und verbringen jeden zweiten Sommer auf Mallorca.
 
 Sind Sie bereit, diese Pflichten auf sich zu nehmen?
 
-Aber...
+Aber…
 
 Ja, natürlich.
 
@@ -200,15 +203,15 @@ Ja, okay.
 
 Hallo, Mama.
 
-Schwägerin! 
+Schwägerin!
 
 Die sind aber gut geworden!
 
-Ja? 
+Ja?
 
 Super.
 
-Cenk, vergiss den Kuchen nicht. 
+Cenk, vergiss den Kuchen nicht.
 
 Ja, Mama, schnell.
 
@@ -232,7 +235,7 @@ Ein türkischer Junge aus seiner Klasse hat ihn gehänselt, er wäre kein richti
 
 Was?
 
-Ali! Du gehst morgen zur Schule...und zeigst du diesem esol eşek, was für Türken wir sind!
+Ali! Du gehst morgen zur Schule…und zeigst du diesem esol eşek, was für Türken wir sind!
 
 Papa!
 
@@ -242,7 +245,7 @@ Finger weg!
 
 So lecker.
 
-Und wie geht's dir?
+Und wie geht’s dir?
 
 Gut.
 
@@ -254,7 +257,7 @@ Der ist auch scharf. Das ätzt mir den Magen weg.
 
 Das ist bestimmt Muhamed. Mach auf.
 
-Hallo...
+Hallo…
 
 Nein, ist ein Scheiß.
 
@@ -264,7 +267,7 @@ Sohn, warum bist du so spät? - Ich hab den Bus verpasst, Mama.
 
 Was ist mit dem Auge passiert? - Nichts!
 
-Nichts...
+Nichts…
 
 Das machst du aus Prinzip.
 
@@ -326,7 +329,7 @@ Es reicht! Ruhe, verdammt noch mal.
 
 Habe ich als euer Vater euch jemals um was gebeten?
 
-Ihr sitzt hier nur rum und macht Blabla...Schämt euch!
+Ihr sitzt hier nur rum und macht Blabla…Schämt euch!
 
 Wir sine eine Familie.
 
@@ -350,7 +353,7 @@ Nein, das geht nicht! Einfach die eine Mannschaft oder die andere!
 
 Wenn Oma und Opa Türken sind, warum sind sie dann hier?
 
-Na...
+Na…
 
 Weil die Deutschen sie gerufen haben.
 
@@ -458,7 +461,7 @@ dass er in ein Jahr so viel Geld gespart hat, dass sie sich ein Taxi kaufen kön
 
 Passt auf euch auf!
 
-So wie viele andere Menschen damals verließ auch Hüseyin seine Heimat...
+So wie viele andere Menschen damals verließ auch Hüseyin seine Heimat…
 
 und kam als Gastarbeiter nach Deutschland.
 
@@ -470,7 +473,7 @@ Immerhin, einer sprach Türkisch.
 
 Sehr verehrte Gastarbeiter,
 
-Dieser Tag ist ein wichtiger Tag für alle...
+Dieser Tag ist ein wichtiger Tag für alle…
 
 und wir hoffen auf eine erfolgreiche Zusammenarbeit.
 
@@ -502,7 +505,7 @@ Muhamed, Lela, wie groß ihr schon seid!
 
 Kennt ihr mich nicht?
 
-Ich bin's.
+Ich bin’s.
 
 Wisst ihr nicht, wer das ist? Das ist Papa!
 
@@ -544,7 +547,7 @@ Komm, das steht nicht, ich breche dich!
 
 Ich werde euch alle mitnehmen nach Almanya.
 
-Wird's euch Disziplin und Ordnung beibringen. Das können sie gut, die Deutschen.
+Wird’s euch Disziplin und Ordnung beibringen. Das können sie gut, die Deutschen.
 
 Dann wird man sehen, was es heißt, die Schule zu schwänzen.
 
@@ -626,9 +629,9 @@ Komm her, ziehst du dir ein neues Hemd an.
 
 Was seid ihr nur für Männer?
 
-Mach's gut!
+Mach’s gut!
 
-Mach's gut, Leyla! Pass gut auf dich auf!
+Mach’s gut, Leyla! Pass gut auf dich auf!
 
 Warum schmeißen sie das Wasser nach ihnen?
 
@@ -640,13 +643,13 @@ Das bedeutet, dass diese Person genau so schnell wieder zurückkehren soll,
 
 wie das Wasser braucht, bis es verdunstet ist.
 
-Hier sieht's aber seltsam aus.
+Hier sieht’s aber seltsam aus.
 
 Sieht hier genau so aus wie bei uns.
 
 Nein, überhaupt nicht! Guck doch mal hin!
 
-Hier sieht's ganz anders aus.
+Hier sieht’s ganz anders aus.
 
 So, wir müssen leider los.
 
@@ -658,7 +661,7 @@ Aber wie sah es denn aus? Was war denn anders?
 
 Das wirst du bald sehen.
 
-Weil wir fahren alle zusammen hin. Opa hat Haus gekauft...
+Weil wir fahren alle zusammen hin. Opa hat Haus gekauft…
 
 und braucht Hilfe von Familie.
 
@@ -696,7 +699,7 @@ Du kannst doch ein bisschen Türkisch.
 
 Ich kann nicht mitkommen. Es tut mir wirklich leid, aber ich hab Prüfungen.
 
-Prüfungen, Prüfungen, Prüfungen...
+Prüfungen, Prüfungen, Prüfungen…
 
 Die Größte Prüfung im Leben ist,
 
@@ -792,7 +795,7 @@ Hüseyin, schau mal, was wir per Post bekommen haben. Eine Einladung.
 
 Für Einwanderer. Dabei sind wir doch jetzt Deutsche.
 
-"Deutschland sagt Danke..."
+“Deutschland sagt Danke…”
 
 Die wollen, dass ich eine Rede halte?
 
@@ -802,7 +805,7 @@ Sind die verrückt geworden? Das mache ich auf keinen Fall!
 
 Allmächtiger! Vor Angela Merkel?
 
-Warte, warte, das hier kommt noch rein. Das...das hier.
+Warte, warte, das hier kommt noch rein. Das…das hier.
 
 Bist du wahnsinnig?
 
@@ -816,13 +819,13 @@ Das sind Geschenke!
 
 Ich will nicht, dass du mitfliegst.
 
-Ich kann das nicht einfach absagen. Ich hab das schon probiert, aber...
+Ich kann das nicht einfach absagen. Ich hab das schon probiert, aber…
 
 Ich brauche auch die Zeit, um das meiner Mutter zu sagen.
 
 Du weißt doch nicht alles, was in der Türkei passieren kann! Du hast keine Ahnung!
 
-Dann komme ich eben mit nach "Turkey". Ich bin noch jetzt auch Familie.
+Dann komme ich eben mit nach “Turkey”. Ich bin noch jetzt auch Familie.
 
 Nee, bist du nicht.
 
@@ -838,7 +841,7 @@ Das ist was komplett anderes.
 
 Canan, wir kriegen ein Kind. Wir sind jetzt die Familie. Du, ich und das Baby!
 
-Ja, das macht uns aber lange noch nicht zu einer Familie. Zu einer Familie gehören mehr. Da--da sind Tanten, Onkeln, Großeltern.
+Ja, das macht uns aber lange noch nicht zu einer Familie. Zu einer Familie gehören mehr. Da–da sind Tanten, Onkeln, Großeltern.
 
 Da ist eine Geschichte.
 
@@ -870,13 +873,13 @@ Nee, echt?
 
 Mir ist langweilig!
 
-Willst du...willst du was spielen?
+Willst du…willst du was spielen?
 
 Nein, ich will die Geschichte hören, Canan!
 
-Okay, ähm...
+Okay, ähm…
 
-Also...
+Also…
 
 Sie kamen in Deutschland an und sofort wurde klar, dass hier alles anders war.
 
@@ -950,7 +953,7 @@ Der da, ist zufällig dein Bruder, ja? Dein Fleisch und Blut.
 
 Putz schneller, ich muss mal!
 
-Ich wische hier die Scheiße von den Deutschen weg...
+Ich wische hier die Scheiße von den Deutschen weg…
 
 und dies ist auch noch zu langsam?
 
@@ -1098,7 +1101,7 @@ Ist nicht wahr.
 
 Doch! Guck doch!
 
-Ich glaub's nicht.
+Ich glaub’s nicht.
 
 Dede wird vor der ganzen Nation sprechen!
 
@@ -1156,7 +1159,7 @@ Er soll doch dem Jungen nichts abkaufen.
 
 Damit unterstützt er nur, dass seine Eltern ihn weiter arbeiten lassen.
 
-Anscheinend geht's nicht anders.
+Anscheinend geht’s nicht anders.
 
 Wer lässt schon gerne seine Kinder arbeiten?
 
@@ -1166,13 +1169,13 @@ Danke, kleiner Mann!
 
 Guckt mal, dass Opa mich nicht erwischt? - Nee, er guckt nicht.
 
-Mama...
+Mama…
 
-Also, ich wollte was mit dir besprechen...
+Also, ich wollte was mit dir besprechen…
 
-Die letzte Zeit, die war ziemlich ereignisreich so für mich...
+Die letzte Zeit, die war ziemlich ereignisreich so für mich…
 
-Und es sind halt ein paar Sachen passiert... - Das gibt's doch nicht!
+Und es sind halt ein paar Sachen passiert… - Das gibt’s doch nicht!
 
 Da sind ja Müllfrauen! Und das hier!
 
@@ -1190,9 +1193,9 @@ Du verpasst was.
 
 Ja?
 
-'Tschuldigung...
+’Tschuldigung…
 
-Gib mich...gemischte Platte. Für mir...bitte.
+Gib mich…gemischte Platte. Für mir…bitte.
 
 Und?
 
@@ -1230,7 +1233,7 @@ Allah mag niemanden, der nicht lächelt.
 
 Danke, kleiner Mann.
 
-Vielen Dank für das Essen, Onkel. Möge Allah dich immer beschützen. - Oh, ich glaube, dass...
+Vielen Dank für das Essen, Onkel. Möge Allah dich immer beschützen. - Oh, ich glaube, dass…
 
 Mir ist ein bisschen übel. - Stell dich nicht so an.
 
@@ -1260,11 +1263,11 @@ Gut?
 
 Mm-hmm, ist okay.
 
-So...
+So…
 
-Ich danke Ihnen viel, dass Sie mich hier eingeladen...
+Ich danke Ihnen viel, dass Sie mich hier eingeladen…
 
-Das heißt sehr, "Ich danke Ihnen sehr!" Mann, Dede!
+Das heißt sehr, “Ich danke Ihnen sehr!” Mann, Dede!
 
 Ich danke Ihnen sehr! Hab ich wieder vergessen. Weißt du was?
 
@@ -1292,13 +1295,13 @@ Doch, das waren zwei Müllfrauen, die eine blond und die andere Dunkles!
 
 Es gibt keine blonden Müllfrauen!
 
-Doch! Auf jeden Fall, ich habe sie doch gesehen...
+Doch! Auf jeden Fall, ich habe sie doch gesehen…
 
 Deine Mutter hat recht. Setz dich wenigstens hier.
 
 Canan?
 
-Geht's weiter?
+Geht’s weiter?
 
 Nein, nein nein.
 
@@ -1342,7 +1345,7 @@ Wichtig ist,
 
 dass ihr beiden euch liebt und respektiert.
 
-Noch etwas...
+Noch etwas…
 
 Sag es deiner Mutter, warte nicht zu lange damit.
 
@@ -1362,7 +1365,7 @@ Cenk!
 
 Willst du Rest von Geschichte hören?
 
-Geht's denn noch weiter? - Natürlich!
+Geht’s denn noch weiter? - Natürlich!
 
 Canan?
 
@@ -1390,7 +1393,7 @@ Okay.
 
 Unser erstes Weihnachten!
 
-Ja wir haben's geschafft!
+Ja wir haben’s geschafft!
 
 Oh, nein! Wir dürfen die Geschenke doch vorher nicht sehen!
 
@@ -1434,7 +1437,7 @@ Damit die da sie nicht sehen!
 
 Was willst du mit einer einzigen Flasche Coca-Cola, du Holzkopf, hä?
 
-Es ist ein Geschenk für Emre! Ich hab's ihm versprochen! Bitte, Baba!
+Es ist ein Geschenk für Emre! Ich hab’s ihm versprochen! Bitte, Baba!
 
 Ach, komm.
 
@@ -1442,7 +1445,7 @@ Ein Geschenk für dein Freund?
 
 Versprechen muss man halten, na? Wir packen sie noch ganz unten.
 
-Möge Allah seine schützende Hand über uns halten...
+Möge Allah seine schützende Hand über uns halten…
 
 und uns heil und gesund in der Heimat ankommen lassen.
 
@@ -1480,7 +1483,7 @@ Eine einzige Flasche, dass ist alles, was ich bekomme?
 
 Weißt du, wie schwer es war, die hierher zu schleusen?
 
-Kemal hat von dem Cousin aus da ein deutsches ferngesteuertes Auto bekommen...
+Kemal hat von dem Cousin aus da ein deutsches ferngesteuertes Auto bekommen…
 
 und du Geizhals schenkst mir nur eine Flasche?
 
@@ -1500,9 +1503,9 @@ Er sagt, ich bin geizig!
 
 Geizig? Fangen die Kinder auch schon an.
 
-Geht nur um Geld, Geld Geld...
+Geht nur um Geld, Geld Geld…
 
-Als hätten wir in Deutschland 'n Goldesel stehen, der Münzen scheißt!
+Als hätten wir in Deutschland ’n Goldesel stehen, der Münzen scheißt!
 
 Hüseyin!
 
@@ -1510,13 +1513,13 @@ Fatma!
 
 Stromausfall!
 
-Diese verfluchte Hundsöhne...
+Diese verfluchte Hundsöhne…
 
 Wozu bezahlen wir den Strom, wenn sie den noch ausschalten, wenn sie lustig sind?
 
 Es ist schon der zweite Ausfall heute.
 
-Es waren nur Kleinigkeiten...
+Es waren nur Kleinigkeiten…
 
 aber sie häuften sich.
 
@@ -1538,7 +1541,7 @@ Wahrscheinlich so ein Freund aus der Uni, der braucht wahrscheinlich irgendwelch
 
 Mama, es ist nicht ein Freund, ist mein Freund.
 
-Und, ähm...
+Und, ähm…
 
 Und ich bin schwanger.
 
@@ -1562,7 +1565,7 @@ Ist das der Dank für die viele Freiheiten, die ich dir gegeben habe, ja?
 
 Ich höre schon die Leute quatschen. Kannst dankbar sein, dass dein Vater das nicht miterleben muss.
 
-Und dann mit 'nem Deutschen!
+Und dann mit ’nem Deutschen!
 
 Er ist Engländer!
 
@@ -1578,11 +1581,11 @@ Wollt ihr das Leben nehmen, das Allah gegeben hat?
 
 Dem Allmächtigen sei Dank, dass Vater das nicht miterleben muss!
 
-Dede hat's gewusst.
+Dede hat’s gewusst.
 
 Er hat mich darauf angesprochen.
 
-Ich weiß nicht wie, aber er hat's gewusst.
+Ich weiß nicht wie, aber er hat’s gewusst.
 
 Stimmt.
 
@@ -1604,7 +1607,7 @@ Was ist denn mit dem Fest? Dede wollte doch eine Rede halten.
 
 Danke, dass ich hier schlafen darf.
 
-Das mit Sevgi, das...
+Das mit Sevgi, das…
 
 Es tut mir leid.
 
@@ -1618,7 +1621,7 @@ Komm mal her.
 
 Opa ist hier. Und hier.
 
-Das Sterben...Sterben ist nichts Schlimmes.
+Das Sterben…Sterben ist nichts Schlimmes.
 
 Ist ganz normal.
 
@@ -1634,19 +1637,19 @@ Erinnerst du dich, als wir von Wasser gesprochen haben?
 
 Dass es seine Form verändert.
 
-Also...
+Also…
 
 Bei normalen Temperaturen, so wie jetzt,
 
 da ist das Wasser flüssig.
 
-Und wenn's kalt ist, dann wird's zu Eis.
+Und wenn’s kalt ist, dann wird’s zu Eis.
 
-Wenn man es kocht, dann...
+Wenn man es kocht, dann…
 
 dann verdampft es. Ja?
 
-Dann steigt es in den Himmel. Also...
+Dann steigt es in den Himmel. Also…
 
 Also, wie sagen wir das, egal wie das Wasser aussieht, egal welche Form es hat,
 
@@ -1656,9 +1659,9 @@ Verstehst du, was ich meine?
 
 Opa ist verdampft.
 
-Ja...
+Ja…
 
-...Ja, so in etwa.
+…Ja, so in etwa.
 
 Das ist die Adresse des Friedhofs für Ausländer.
 
@@ -1722,7 +1725,7 @@ Sind das nicht Oliven?
 
 Komm her, Cenk.
 
-Das ist Dede's Haus?
+Das ist Dede’s Haus?
 
 Was ist das denn?
 
@@ -1736,9 +1739,9 @@ Ich bleib hier und bau das Haus auf.
 
 Ja, das mach ich.
 
-Unter dem Motto "Deutschland sagt danke"...
+Unter dem Motto “Deutschland sagt danke”…
 
-lud heute die Bundeskanzlerin 200 Immigranten der ersten Stunde...
+lud heute die Bundeskanzlerin 200 Immigranten der ersten Stunde…
 
 zu einem Empfang in Schloss Bellevue ein.
 
@@ -1754,13 +1757,13 @@ Aber ich weiß, was er sagen wollte, wir haben zusammen geübt.
 
 Sehr geehrte Frau Bundeskanzlerin und liebe Mitbürger!
 
-Ich danke...
+Ich danke…
 
 Danke Ihnen!
 
-Ich danke Ihnen sehr, dass ich...
+Ich danke Ihnen sehr, dass ich…
 
-als eine Millionunderster...
+als eine Millionunderster…
 
 Ausländer, der nach Deutschland kam, um zu arbeiten, heute zu Ihnen sprechen darf.
 
@@ -1784,7 +1787,7 @@ Wir sind alles, was geschieht, nachdem wir nicht mehr sind.
 
 Und was nicht geschähe, wenn wir nicht gekommen wären.
 
-"Wir riefen Arbeitskräfte, es kamen Menschen" - Max Frisch
+“Wir riefen Arbeitskräfte, es kamen Menschen” - Max Frisch
 
 Ich möchte die Erfahrung der Betriebsleitung in einem Satz zusammenfassen:
 
@@ -1794,7 +1797,7 @@ Wenn wir wieder vor die Wahl gestellt werden, dann nur türkische Facharbeiter.
 
 So, das W, das kommt hauptsächlich in Fragewörter vor.
 
-Wieso, weshalb, warum...
+Wieso, weshalb, warum…
 
 Cenk.
 
@@ -1825,3 +1828,5 @@ Engin, was ist?
 Eigentlich komme ich aus Ovacik, das ist auch in Anatolien.
 
 Dann stellen wir dich dazu
+
+</section>
